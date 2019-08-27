@@ -16,4 +16,4 @@ Currently there are three environment variables set.
 
 ## Goals and Architecture
 
-![alt text](http://url/to/img.png)
+![alt text](img/Screen Shot 2019-08-23 at 1.27.07 PM.png)

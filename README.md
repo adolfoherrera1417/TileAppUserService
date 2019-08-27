@@ -16,4 +16,4 @@ Currently there are three environment variables set.
 
 ## Goals and Architecture
 
-![alt text](img/Screen Shot 2019-08-23 at 1.27.07 PM.png)
+![alt text](https://github.com/adolfoherrera1417/TileAppUserService/blob/master/img/Screen%20Shot%202019-08-23%20at%201.27.07%20PM.png)
